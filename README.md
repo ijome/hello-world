@@ -1,2 +1,2 @@
-# hello-wordl
+# hello-word
 This is a sample project
